@@ -1,0 +1,2 @@
+entity-packages: com.example.licentaebeans
+transactional-packages: com.example.licentaebeans
